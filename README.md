@@ -27,5 +27,5 @@
 
 ## 🛠️ 安装步骤
 
-1.[点击安装脚本](https://your-domain.com/link-cleaner.user.js)  
+1.[此处下载脚本](https://github.com/Flygeon/betterlinks/blob/main/%E9%93%BE%E6%8E%A5%E5%87%80%E5%8C%96%E5%99%A8-1.0.user.js)  
    （或手动复制代码到Tampermonkey）
